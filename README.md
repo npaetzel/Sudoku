@@ -1,2 +1,2 @@
 # Sudoku
-A little Sudoku implementation I made in 2017.
+A little Sudoku implementation in Java with JavaFX I made in 2017.
